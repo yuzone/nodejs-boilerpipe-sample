@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-boilerpipe-sample",
+  "version": "0.0.1",
+  "description": "boilerpipe sample for Node.js",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuzone/nodejs-boilerpipe-sample.git"
+  },
+  "keywords": [
+    "boilerpipe"
+  ],
+  "author": "yuzone",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/yuzone/nodejs-boilerpipe-sample/issues"
+  },
+  "dependencies": {
+    "boilerpipe": "*",
+    "async"     : "*",
+    "request"   : "*"
+  },
+  "homepage": "https://github.com/yuzone/nodejs-boilerpipe-sample"
+}
